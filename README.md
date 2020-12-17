@@ -21,15 +21,19 @@ Currently I'm trying to improve my **vuejs** and **nuxtjs** skills.
 
 ##### JS Framework and Lib I used
 
+<p float="left">
 <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="25" />
 <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" width="25"/>
+</p>
 
 ##### For Styling
 
+<p float="left">
 <img src="https://i.imgur.com/BzS2wtv.png" width="25"/>
 <img src="https://i.imgur.com/IdVUbi2.png" width="25"/>
 <img src="https://i.imgur.com/OTcEb8Z.png" width="25"/>
 <img src="https://i.imgur.com/bVRwFC8.jpg" width="25"/>
+</p>
 
 ---
 
@@ -42,4 +46,5 @@ Currently I'm trying to improve my **vuejs** and **nuxtjs** skills.
 
 ##### Can touch me via
 
-[<img src="https://i.imgur.com/HyvlxuC.png" style="width:25px;"/>](mailto:https://dev.kaunghtet@gmail.com) [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" style="width:25px;"/>](https://www.facebook.com/tragonn.tonian)
+| [<img src="https://i.imgur.com/HyvlxuC.png" width="25"/>](mailto:https://dev.kaunghtet@gmail.com) | [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="25"/>](https://www.facebook.com/tragonn.tonian) |
+| ------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------: |
