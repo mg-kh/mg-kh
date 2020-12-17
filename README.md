@@ -17,19 +17,19 @@ Currently I'm trying to improve my **vuejs** and **nuxtjs** skills.
 
 ##### Language I used
 
-<img src="https://img.icons8.com/color/48/000000/javascript.png" style="width:25px"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" width="25"/>
 
 ##### JS Framework and Lib I used
 
-<img src="https://img.icons8.com/color/48/000000/vue-js.png" style="width:25px" />
-<img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" style="width:25px"/>
+<img src="https://img.icons8.com/color/48/000000/vue-js.png" width="25" />
+<img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" width="25"/>
 
 ##### For Styling
 
-<img src="https://i.imgur.com/BzS2wtv.png" style="width:25px"/>
-<img src="https://i.imgur.com/IdVUbi2.png" style="width:25px"/>
-<img src="https://i.imgur.com/OTcEb8Z.png" style="width:25px"/>
-<img src="https://i.imgur.com/bVRwFC8.jpg" style="width:25px"/>
+<img src="https://i.imgur.com/BzS2wtv.png" width="25"/>
+<img src="https://i.imgur.com/IdVUbi2.png" width="25"/>
+<img src="https://i.imgur.com/OTcEb8Z.png" width="25"/>
+<img src="https://i.imgur.com/bVRwFC8.jpg" width="25"/>
 
 ---
 
