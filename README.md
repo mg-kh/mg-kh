@@ -39,8 +39,8 @@ Currently I'm trying to improve my **vuejs** and **nuxtjs** skills.
 
 ##### Some of my projects
 
-| [Vue Blog](https://github.com/) | [Covid-19 Dashboard](https://github.com/) |
-| ------------------------------- | ----------------------------------------- |
+| [Vue Blog](https://dreamy-kalam-defdf6.netlify.app/) | [Covid-19 Dashboard](https://sad-pasteur-60fd9e.netlify.app/) |
+| ---------------------------------------------------- | ------------------------------------------------------------- |
 
 ---
 
