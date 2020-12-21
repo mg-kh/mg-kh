@@ -1,7 +1,7 @@
 #### Hello , I'm Kaung Htet Lynn. :blush:
 
 <details>
-<summary>A little about me ✌️</summary>
+<summary>A little more about me ✌️</summary>
 <br>
 I am trying to be a frontend developer.
 I really like to manipulate with css and js. I learned from youtube and read books, docs, etc...
@@ -23,7 +23,7 @@ Currently I'm trying to improve my **vuejs** and **nuxtjs** skills.
 
 <p float="left">
 <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="25" />
-<img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" width="25"/>
+<img src="https://i.imgur.com/9rqs02v.png" width="25"/>
 </p>
 
 ##### For Styling
@@ -39,8 +39,8 @@ Currently I'm trying to improve my **vuejs** and **nuxtjs** skills.
 
 ##### Some of my projects
 
-| [Vue Blog](https://dreamy-kalam-defdf6.netlify.app/) | [Covid-19 Dashboard](https://sad-pasteur-60fd9e.netlify.app/) |
-| ---------------------------------------------------- | ------------------------------------------------------------- |
+| [Vue Blog](https://dreamy-kalam-defdf6.netlify.app/) | [Covid-19 Dashboard](https://sad-pasteur-60fd9e.netlify.app/) | [Vue Test Small Projects](https://boring-poitras-0e2b5d.netlify.app/)
+| ---------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------- |
 
 ---
 
